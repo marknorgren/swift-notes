@@ -38,10 +38,13 @@ let image = images[0]
 
 let imageView = UIImageView(frame: CGRect(x:0, y:0, width: 200, height: 200))
 
-imageView
+imageView.image = image
 
 
-let myImage = UIImage(named: "home-hero-swift-hero")
 
-//imageView.image = myImage
+
+
+
+
+//let myImage = UIImage(named: "home-hero-swift-hero")
 
