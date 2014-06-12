@@ -12,7 +12,9 @@ Collection of links, resources, and snippets for Swift
 * [The Swift Programming Language - iBook](https://itunes.apple.com/us/book/the-swift-programming-language/id881256329?mt=11)
 * 
 
-
+# Cheat Sheets
+* [Swift Cheat Sheet and Quick Reference - Ray Wenderlich](http://www.raywenderlich.com/73967/swift-cheat-sheet-and-quick-reference)
+* [Swift Cheat Sheet - github.com/grant/swift-cheat-sheet](https://github.com/grant/swift-cheat-sheet)
 
 # Tutorials
 * [Swift Tutorial: A Quick Start](http://www.raywenderlich.com/74438/swift-tutorial-a-quick-start)
