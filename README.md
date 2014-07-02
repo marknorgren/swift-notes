@@ -19,6 +19,8 @@ Collection of links, resources, and snippets for Swift
 * [WWDC 2014 - Swift Playgrounds](http://devstreaming.apple.com/videos/wwdc/2014/408xxcm26svis12/408/408_hd_swift_playgrounds.mov)
 * 
 
+# Style Guide
+* https://github.com/raywenderlich/swift-style-guide
 
 # Cheat Sheets
 * [Swift Cheat Sheet and Quick Reference - Ray Wenderlich](http://www.raywenderlich.com/73967/swift-cheat-sheet-and-quick-reference)
