@@ -4,7 +4,7 @@ Swift
 Collection of links, resources, and snippets for Swift
 
 
-* We love Swift - (http://www.weheartswift.com/one-month-swift/)
+* We love Swift - http://www.weheartswift.com/one-month-swift/
 * [Official Apple Site](https://developer.apple.com/swift/)
 * [About Swift](https://developer.apple.com/library/prerelease/ios/documentation/Swift/Conceptual/Swift_Programming_Language/)
 * [Language Guide](https://developer.apple.com/library/prerelease/ios/documentation/Swift/Conceptual/Swift_Programming_Language/TheBasics.html#//apple_ref/doc/uid/TP40014097-CH5-XID_399)
