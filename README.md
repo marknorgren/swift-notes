@@ -3,9 +3,10 @@ Swift
 
 ## Use REPL during Xcode beta releases
   * Setup alias for `swift`
-  ```
+  
+```
   alias swift="/Applications/Xcode6-Beta2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swift"
-  ```
+```
 
 
 ## Collection of links, resources, and snippets for Swift
