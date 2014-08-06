@@ -7,18 +7,30 @@ Swift
 ```
   alias swift="/Applications/Xcode6-Beta5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swift"
 ```
-
-
-## Collection of links, resources, and snippets for Swift
-* We love Swift - http://www.weheartswift.com/one-month-swift/
+## Apple's Official Documentation
 * [Official Apple Site](https://developer.apple.com/swift/)
 * [About Swift](https://developer.apple.com/library/prerelease/ios/documentation/Swift/Conceptual/Swift_Programming_Language/)
 * [Language Guide](https://developer.apple.com/library/prerelease/ios/documentation/Swift/Conceptual/Swift_Programming_Language/TheBasics.html#//apple_ref/doc/uid/TP40014097-CH5-XID_399)
 * [Language Reference](https://developer.apple.com/library/prerelease/ios/documentation/Swift/Conceptual/Swift_Programming_Language/AboutTheLanguageReference.html#//apple_ref/doc/uid/TP40014097-CH29-XID_453)
 * [The Swift Programming Language - iBook](https://itunes.apple.com/us/book/the-swift-programming-language/id881256329?mt=11)
+* [Apple's Swift Book - Revision History](https://developer.apple.com/library/prerelease/ios/documentation/Swift/Conceptual/Swift_Programming_Language/RevisionHistory.html)
+    * Very useful while Swift is in beta!
+
+## Collection of links, resources, and snippets for Swift
+* [Practical Swift](http://practicalswift.com/)
+* [List of Swift tutorials maintained by Jameson Quave](http://jamesonquave.com/blog/tutorials/) 
+* We love Swift - http://www.weheartswift.com/one-month-swift/
+
+
 * Curated list of helpful resources to learn Swift - [www.learnswift.tips](http://www.learnswift.tips/)
 
-
+## Books and Upcoming Books
+* [The Swift Programming Language - iBook](https://itunes.apple.com/us/book/the-swift-programming-language/id881256329?mt=11)
+* [Functional Programming in Swift](http://www.objc.io/books/)
+* [Developing iOS 8 Apps in Swift](http://jamesonquave.com/swiftebook/)
+* [Ray Wenderlich's Books](http://www.raywenderlich.com/74832/three-new-swift-books)
+* [Ash Furrow's Swift Book](https://leanpub.com/swift_book)
+* [A Swift Kickstart by Daniel H Steinberg](https://itunes.apple.com/us/book/a-swift-kickstart/id891801923?mt=11)
 ## Videos
 * Note: WWDC videos work best in the [Safari browser](https://www.apple.com/safari/)
 * [WWDC 2014 - Introduction to Swift](http://devstreaming.apple.com/videos/wwdc/2014/402xxgg8o88ulsr/402/402_hd_introduction_to_swift.mov)
