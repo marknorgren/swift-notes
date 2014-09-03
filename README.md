@@ -46,3 +46,8 @@ Swift
 
 ## Tutorials
 * [Swift Tutorial: A Quick Start](http://www.raywenderlich.com/74438/swift-tutorial-a-quick-start)
+
+
+## Videos
+* [Enums, Pattern Matching & Generics](http://realm.io/news/swift-enums-pattern-matching-generics/)
+* 
