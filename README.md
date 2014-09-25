@@ -3,9 +3,10 @@ Swift
 
 ## Use REPL during Xcode beta releases
   * Setup alias for `swift`
-  
+  * OS X 10.9 Mavericks
 ```
-  alias swift="/usr/bin/env DEVELOPER_DIR=/Applications/Xcode.app/Contents/Developer xcrun swift"
+
+  alias swift="xcrun swift -sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk"
 ```
 ## Apple's Official Documentation
 * [Official Apple Site](https://developer.apple.com/swift/)
