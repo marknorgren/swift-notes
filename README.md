@@ -1,7 +1,7 @@
 Swift
 =====
 
-## Use REPL during Xcode beta releases
+## Use REPL from terminal
   * Setup alias for `swift`
   * OS X 10.9 Mavericks
 ```
