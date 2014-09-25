@@ -5,7 +5,7 @@ Swift
   * Setup alias for `swift`
   
 ```
-  alias swift="/Applications/Xcode6-Beta5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swift"
+  alias swift="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swift"
 ```
 ## Apple's Official Documentation
 * [Official Apple Site](https://developer.apple.com/swift/)
