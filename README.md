@@ -69,5 +69,6 @@ switch to the LLDB prompt.
 
 
 ## Videos
+* [Swift for Javascript Developers](http://realm.io/news/swift-for-javascript-developers/)
 * [Enums, Pattern Matching & Generics](http://realm.io/news/swift-enums-pattern-matching-generics/)
-* 
+* [Building tableviews in Swift](http://realm.io/news/building-tableviews-swift-ios8/)
