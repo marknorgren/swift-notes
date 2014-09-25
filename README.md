@@ -5,9 +5,24 @@ Swift
   * Setup alias for `swift`
   * OS X 10.9 Mavericks
 ```
-
   alias swift="xcrun swift -sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk"
 ```
+
+Once you add that alias you should be able to run `swift` from terminal
+
+```bash
+$ swift
+Welcome to Swift! Type :help for assistance.
+    1> :help
+
+The Swift REPL (Read-Eval-Print-Loop) acts like an interpreter.  Valid statements, expressions, and declarations are
+immediately compiled and executed.
+
+The complete set of LLDB debugging commands are also available as described below. 
+Commands must be prefixed with a colon at the REPL prompt (:quit for example.)  Typing just a colon followed by return will
+switch to the LLDB prompt.
+```
+
 ## Apple's Official Documentation
 * [Official Apple Site](https://developer.apple.com/swift/)
 * [About Swift](https://developer.apple.com/library/prerelease/ios/documentation/Swift/Conceptual/Swift_Programming_Language/)
