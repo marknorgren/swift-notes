@@ -42,13 +42,15 @@ switch to the LLDB prompt.
 
 ## Books and Upcoming Books
 * [The Swift Programming Language - iBook](https://itunes.apple.com/us/book/the-swift-programming-language/id881256329?mt=11)
-* [Functional Programming in Swift](http://www.objc.io/books/)
-* [Developing iOS 8 Apps in Swift](http://jamesonquave.com/swiftebook/)
-* [Ray Wenderlich's Books](http://www.raywenderlich.com/74832/three-new-swift-books)
-* [Ash Furrow's Swift Book](https://leanpub.com/swift_book)
+* [A Swift Kickstart by Daniel H Steinberg](https://itunes.apple.com/us/book/a-swift-kickstart/id891801923?mt=11)
 * [Your first Swift App](https://leanpub.com/yourfirstswiftapp)
   * [Code for Your first Swift App](https://github.com/AshFurrow/yourfirstswiftapp)
-* [A Swift Kickstart by Daniel H Steinberg](https://itunes.apple.com/us/book/a-swift-kickstart/id891801923?mt=11)
+* [Developing iOS 8 Apps in Swift](http://jamesonquave.com/swiftebook/)
+* [Functional Programming in Swift](http://www.objc.io/books/)
+* [Ray Wenderlich's Books](http://www.raywenderlich.com/74832/three-new-swift-books)
+* [Ash Furrow's Swift Book](https://leanpub.com/swift_book)
+
+
 ## Videos
 * Note: WWDC videos work best in the [Safari browser](https://www.apple.com/safari/)
 * [WWDC 2014 - Introduction to Swift](http://devstreaming.apple.com/videos/wwdc/2014/402xxgg8o88ulsr/402/402_hd_introduction_to_swift.mov)
