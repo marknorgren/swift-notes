@@ -46,6 +46,8 @@ switch to the LLDB prompt.
 * [Developing iOS 8 Apps in Swift](http://jamesonquave.com/swiftebook/)
 * [Ray Wenderlich's Books](http://www.raywenderlich.com/74832/three-new-swift-books)
 * [Ash Furrow's Swift Book](https://leanpub.com/swift_book)
+* [Your first Swift App](https://leanpub.com/yourfirstswiftapp)
+  * [Code for Your first Swift App](https://github.com/AshFurrow/yourfirstswiftapp)
 * [A Swift Kickstart by Daniel H Steinberg](https://itunes.apple.com/us/book/a-swift-kickstart/id891801923?mt=11)
 ## Videos
 * Note: WWDC videos work best in the [Safari browser](https://www.apple.com/safari/)
