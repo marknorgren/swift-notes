@@ -2,11 +2,18 @@ Swift
 =====
 
 ## Use REPL from terminal
+  * OS X 10.10 Yosemite just type `swift` in the terminal to start the REPL
+  
+  ```
+    $ swift
+    Welcome to Swift!  Type :help for assistance.
+  ```
   * Setup alias for `swift`
   * OS X 10.9 Mavericks
-```
-  alias swift="xcrun swift -sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk"
-```
+
+  ```
+    alias swift="xcrun swift -sdk     /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk"
+  ```
 
 Once you add that alias you should be able to run `swift` from terminal
 
@@ -33,6 +40,7 @@ switch to the LLDB prompt.
     * Very useful while Swift is in beta!
 
 ## Collection of links, resources, and snippets for Swift
+* Auto Generated Documentation - [http://swifter.natecook.com](http://swifter.natecook.com)
 * [Practical Swift](http://practicalswift.com/)
 * [List of Swift tutorials maintained by Jameson Quave](http://jamesonquave.com/blog/tutorials/) 
 * We love Swift - http://www.weheartswift.com/one-month-swift/
@@ -57,7 +65,8 @@ switch to the LLDB prompt.
 * [WWDC 2014 - Swift Playgrounds](http://devstreaming.apple.com/videos/wwdc/2014/408xxcm26svis12/408/408_hd_swift_playgrounds.mov)
 * 
 
-## Style Guide
+## Style Guides
+* Github's [Swift style guide](https://github.com/github/swift-style-guide)
 * https://github.com/raywenderlich/swift-style-guide
 
 ## Cheat Sheets
