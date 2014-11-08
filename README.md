@@ -12,6 +12,9 @@ Swift
 * [Apple's Swift Book - Revision History](https://developer.apple.com/library/prerelease/ios/documentation/Swift/Conceptual/Swift_Programming_Language/RevisionHistory.html)
     * Very useful while Swift is in beta!
 
+
+
+
 ## Collection of links, resources, and snippets for Swift
 * Auto Generated Documentation - [http://swifter.natecook.com](http://swifter.natecook.com)
 * [Practical Swift](http://practicalswift.com/)
@@ -20,6 +23,10 @@ Swift
 
 
 * Curated list of helpful resources to learn Swift - [www.learnswift.tips](http://www.learnswift.tips/)
+
+## Articles / Discussions about Swift
+* [The point of optionals?](http://www.bornsleepy.com/bornsleepy/point-optionals)
+* 
 
 ## Books and Upcoming Books
 * [The Swift Programming Language - iBook](https://itunes.apple.com/us/book/the-swift-programming-language/id881256329?mt=11)
