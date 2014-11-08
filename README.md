@@ -1,34 +1,7 @@
 Swift
 =====
 
-## Use REPL from terminal
-  * OS X 10.10 Yosemite just type `swift` in the terminal to start the REPL
-  
-  ```
-    $ swift
-    Welcome to Swift!  Type :help for assistance.
-  ```
-  * Setup alias for `swift`
-  * OS X 10.9 Mavericks
 
-  ```
-    alias swift="xcrun swift -sdk     /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk"
-  ```
-
-Once you add that alias you should be able to run `swift` from terminal
-
-```bash
-$ swift
-Welcome to Swift! Type :help for assistance.
-    1> :help
-
-The Swift REPL (Read-Eval-Print-Loop) acts like an interpreter.  Valid statements, expressions, and declarations are
-immediately compiled and executed.
-
-The complete set of LLDB debugging commands are also available as described below. 
-Commands must be prefixed with a colon at the REPL prompt (:quit for example.)  Typing just a colon followed by return will
-switch to the LLDB prompt.
-```
 
 ## Apple's Official Documentation
 * [Official Apple Site](https://developer.apple.com/swift/)
@@ -81,3 +54,32 @@ switch to the LLDB prompt.
 * [Swift for Javascript Developers](http://realm.io/news/swift-for-javascript-developers/)
 * [Enums, Pattern Matching & Generics](http://realm.io/news/swift-enums-pattern-matching-generics/)
 * [Building tableviews in Swift](http://realm.io/news/building-tableviews-swift-ios8/)
+
+## Use REPL from terminal
+  * OS X 10.10 Yosemite just type `swift` in the terminal to start the REPL
+  
+  ```
+    $ swift
+    Welcome to Swift!  Type :help for assistance.
+  ```
+  * Setup alias for `swift`
+  * OS X 10.9 Mavericks
+
+  ```
+    alias swift="xcrun swift -sdk     /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk"
+  ```
+
+Once you add that alias you should be able to run `swift` from terminal
+
+```bash
+$ swift
+Welcome to Swift! Type :help for assistance.
+    1> :help
+
+The Swift REPL (Read-Eval-Print-Loop) acts like an interpreter.  Valid statements, expressions, and declarations are
+immediately compiled and executed.
+
+The complete set of LLDB debugging commands are also available as described below. 
+Commands must be prefixed with a colon at the REPL prompt (:quit for example.)  Typing just a colon followed by return will
+switch to the LLDB prompt.
+```
