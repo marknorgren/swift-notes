@@ -16,6 +16,7 @@ Swift
 
 
 ## Collection of links, resources, and snippets for Swift
+* Community supported list of iOS / OS X Swift libraries - [http://www.swifttoolbox.io](http://www.swifttoolbox.io)
 * Auto Generated Documentation - [http://swifter.natecook.com](http://swifter.natecook.com)
 * [Practical Swift](http://practicalswift.com/)
 * [List of Swift tutorials maintained by Jameson Quave](http://jamesonquave.com/blog/tutorials/) 
