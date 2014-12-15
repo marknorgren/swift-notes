@@ -60,6 +60,12 @@ Swift
 
 ## Videos
 * [Swift for Javascript Developers](http://realm.io/news/swift-for-javascript-developers/)
+* [Swift: Enums, Pattern Matching & Generics](http://realm.io/news/swift-enums-pattern-matching-generics/)
+  * special guest: Chris Lattner, the creator of Swift! 
+* [Converting Objective-C to Swift](http://realm.io/news/converting-objc-to-swift/)
+* [Functional Programming in Swift](http://realm.io/news/functional-programming-swift-chris-eidhof/)
+* [Swift and Objective-C: Best Friends Forever?](http://realm.io/news/swift-objc-best-friends-forever/)
+* [Swift for Command-Line Tools](http://realm.io/news/swift-for-CLI/)
 * [Enums, Pattern Matching & Generics](http://realm.io/news/swift-enums-pattern-matching-generics/)
 * [Building tableviews in Swift](http://realm.io/news/building-tableviews-swift-ios8/)
 
