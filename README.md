@@ -44,7 +44,20 @@ Swift
 * Note: WWDC videos work best in the [Safari browser](https://www.apple.com/safari/)
 * [WWDC 2014 - Introduction to Swift](http://devstreaming.apple.com/videos/wwdc/2014/402xxgg8o88ulsr/402/402_hd_introduction_to_swift.mov)
 * [WWDC 2014 - Swift Playgrounds](http://devstreaming.apple.com/videos/wwdc/2014/408xxcm26svis12/408/408_hd_swift_playgrounds.mov)
-* 
+
+### realm.io meetup videos
+
+This is a list of an awesome resource from [realm.io's](realm.io) [blog](http://realm.io/news)
+
+* [Swift for Javascript Developers](http://realm.io/news/swift-for-javascript-developers/)
+* [Swift: Enums, Pattern Matching & Generics](http://realm.io/news/swift-enums-pattern-matching-generics/)
+  * special guest: Chris Lattner, the creator of Swift! 
+* [Converting Objective-C to Swift](http://realm.io/news/converting-objc-to-swift/)
+* [Functional Programming in Swift](http://realm.io/news/functional-programming-swift-chris-eidhof/)
+* [Swift and Objective-C: Best Friends Forever?](http://realm.io/news/swift-objc-best-friends-forever/)
+* [Swift for Command-Line Tools](http://realm.io/news/swift-for-CLI/)
+* [Enums, Pattern Matching & Generics](http://realm.io/news/swift-enums-pattern-matching-generics/)
+* [Building tableviews in Swift](http://realm.io/news/building-tableviews-swift-ios8/)
 
 ## Style Guides
 * Github's [Swift style guide](https://github.com/github/swift-style-guide)
@@ -58,16 +71,7 @@ Swift
 * [Swift Tutorial: A Quick Start](http://www.raywenderlich.com/74438/swift-tutorial-a-quick-start)
 
 
-## Videos
-* [Swift for Javascript Developers](http://realm.io/news/swift-for-javascript-developers/)
-* [Swift: Enums, Pattern Matching & Generics](http://realm.io/news/swift-enums-pattern-matching-generics/)
-  * special guest: Chris Lattner, the creator of Swift! 
-* [Converting Objective-C to Swift](http://realm.io/news/converting-objc-to-swift/)
-* [Functional Programming in Swift](http://realm.io/news/functional-programming-swift-chris-eidhof/)
-* [Swift and Objective-C: Best Friends Forever?](http://realm.io/news/swift-objc-best-friends-forever/)
-* [Swift for Command-Line Tools](http://realm.io/news/swift-for-CLI/)
-* [Enums, Pattern Matching & Generics](http://realm.io/news/swift-enums-pattern-matching-generics/)
-* [Building tableviews in Swift](http://realm.io/news/building-tableviews-swift-ios8/)
+
 
 ## Use REPL from terminal
   * OS X 10.10 Yosemite just type `swift` in the terminal to start the REPL
