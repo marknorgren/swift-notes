@@ -49,6 +49,7 @@ Swift
 
 This is a list of an awesome resource from [realm.io's](realm.io) [blog](http://realm.io/news)
 
+* [Top 5 meetup videos for 2014](http://realm.io/news/top-5-swift-videos-of-2014/)
 * [Swift for Javascript Developers](http://realm.io/news/swift-for-javascript-developers/)
 * [Swift: Enums, Pattern Matching & Generics](http://realm.io/news/swift-enums-pattern-matching-generics/)
   * special guest: Chris Lattner, the creator of Swift! 
