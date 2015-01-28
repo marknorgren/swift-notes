@@ -13,7 +13,10 @@ Swift
     * Very useful while Swift is in beta!
 
 
+## Courses
 
+* [Stanford's Developing iOS 8 Apps With Swift](https://itunes.apple.com/course/developing-ios-8-apps-swift/id961180099)
+  * this is a great resource, taught by Paul Hegarty
 
 ## Collection of links, resources, and snippets for Swift
 * Community supported list of iOS / OS X Swift libraries - [http://www.swifttoolbox.io](http://www.swifttoolbox.io)
