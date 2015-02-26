@@ -19,11 +19,14 @@ Swift
   * this is a great resource, taught by Paul Hegarty
 
 ## Collection of links, resources, and snippets for Swift
+* https://swiftnews.curated.co
 * Community supported list of iOS / OS X Swift libraries - [http://www.swifttoolbox.io](http://www.swifttoolbox.io)
 * Auto Generated Documentation - [http://swifter.natecook.com](http://swifter.natecook.com)
 * [Practical Swift](http://practicalswift.com/)
 * [List of Swift tutorials maintained by Jameson Quave](http://jamesonquave.com/blog/tutorials/) 
 * We love Swift - http://www.weheartswift.com/one-month-swift/
+* http://www.h4labs.com/dev/ios/swift.html
+* https://github.com/melling/SwiftResources
 
 
 * Curated list of helpful resources to learn Swift - [www.learnswift.tips](http://www.learnswift.tips/)
