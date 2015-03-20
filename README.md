@@ -50,6 +50,7 @@ Swift
 * Note: WWDC videos work best in the [Safari browser](https://www.apple.com/safari/)
 * [WWDC 2014 - Introduction to Swift](http://devstreaming.apple.com/videos/wwdc/2014/402xxgg8o88ulsr/402/402_hd_introduction_to_swift.mov)
 * [WWDC 2014 - Swift Playgrounds](http://devstreaming.apple.com/videos/wwdc/2014/408xxcm26svis12/408/408_hd_swift_playgrounds.mov)
+* [dotswift 2015](http://www.thedotpost.com/conference/dotswift-2015)
 
 ### realm.io meetup videos
 
