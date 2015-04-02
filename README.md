@@ -1,7 +1,9 @@
 Swift
 =====
 
+## Tools
 
+* [Online REPL - http://swiftstub.com/](http://swiftstub.com/)
 
 ## Apple's Official Documentation
 * [Official Apple Site](https://developer.apple.com/swift/)
