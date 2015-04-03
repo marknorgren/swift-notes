@@ -13,6 +13,20 @@ Swift
 * [The Swift Programming Language - iBook](https://itunes.apple.com/us/book/the-swift-programming-language/id881256329?mt=11)
 * [Apple's Swift Book - Revision History](https://developer.apple.com/library/prerelease/ios/documentation/Swift/Conceptual/Swift_Programming_Language/RevisionHistory.html)
     * Very useful while Swift is in beta!
+    * 
+
+## Is Swift Ready?
+
+Swift is definitely new and a work in progress. This section lists things that are missing or could use work yet.
+
+### Regular Expressions
+* http://benscheirman.com/2014/06/regex-in-swift/
+* 
+
+### JSON Parsing
+
+* http://roadfiresoftware.com/2014/08/a-safer-approach-to-json-parsing-in-swift/
+* 
 
 
 ## Courses
