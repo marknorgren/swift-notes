@@ -19,6 +19,17 @@ Swift
 
 Swift is definitely new and a work in progress. This section lists things that are missing or could use work yet.
 
+## Libraries / Tools
+
+### Websockets
+
+* https://github.com/daltoniam/starscream
+* https://github.com/tidwall/SwiftWebSocket
+
+### Time / Dates
+
+* https://github.com/malcommac/SwiftDate
+
 ### Regular Expressions
 * http://benscheirman.com/2014/06/regex-in-swift/
 * 
