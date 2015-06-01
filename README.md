@@ -19,6 +19,16 @@ Swift
 
 Swift is definitely new and a work in progress. This section lists things that are missing or could use work yet.
 
+
+### Regular Expressions
+* http://benscheirman.com/2014/06/regex-in-swift/
+* 
+
+### JSON Parsing
+
+* http://roadfiresoftware.com/2014/08/a-safer-approach-to-json-parsing-in-swift/
+
+
 ## Libraries / Tools
 
 ### Websockets
@@ -30,14 +40,6 @@ Swift is definitely new and a work in progress. This section lists things that a
 
 * https://github.com/malcommac/SwiftDate
 
-### Regular Expressions
-* http://benscheirman.com/2014/06/regex-in-swift/
-* 
-
-### JSON Parsing
-
-* http://roadfiresoftware.com/2014/08/a-safer-approach-to-json-parsing-in-swift/
-* 
 
 
 ## Courses
@@ -46,6 +48,7 @@ Swift is definitely new and a work in progress. This section lists things that a
   * this is a great resource, taught by Paul Hegarty
 
 ## Collection of links, resources, and snippets for Swift
+* [Awesome Swift](https://github.com/matteocrippa/awesome-swift)
 * https://swiftnews.curated.co
 * Community supported list of iOS / OS X Swift libraries - [http://www.swifttoolbox.io](http://www.swifttoolbox.io)
 * Auto Generated Documentation - [http://swifter.natecook.com](http://swifter.natecook.com)
