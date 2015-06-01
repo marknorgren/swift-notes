@@ -29,7 +29,7 @@ Swift is definitely new and a work in progress. This section lists things that a
 * http://roadfiresoftware.com/2014/08/a-safer-approach-to-json-parsing-in-swift/
 
 
-## Libraries / Tools
+## Libraries / Tools / Examples
 
 ### Websockets
 
@@ -40,7 +40,13 @@ Swift is definitely new and a work in progress. This section lists things that a
 
 * https://github.com/malcommac/SwiftDate
 
+### Functional Swift
 
+#### Example Apps
+
+* [Reactive Cocoa](https://github.com/ReactiveCocoa/ReactiveCocoa)
+* https://github.com/kzaher/RxSwift - Microsoft Reactive Extensions (Rx) for Swift and iOS/OSX platform
+* https://github.com/ColinEberhardt/ReactiveSwiftFlickrSearch
 
 ## Courses
 
