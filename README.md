@@ -42,10 +42,13 @@ Swift is definitely new and a work in progress. This section lists things that a
 
 ### Functional Swift
 
-#### Example Apps
+
 
 * [Reactive Cocoa](https://github.com/ReactiveCocoa/ReactiveCocoa)
-* https://github.com/kzaher/RxSwift - Microsoft Reactive Extensions (Rx) for Swift and iOS/OSX platform
+* [RxSwift](https://github.com/kzaher/RxSwift) - Microsoft Reactive Extensions (Rx) for Swift and iOS/OSX platform
+
+#### Example Apps
+
 * https://github.com/ColinEberhardt/ReactiveSwiftFlickrSearch
 
 ## Courses
