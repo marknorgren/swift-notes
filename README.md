@@ -31,6 +31,11 @@ Swift is definitely new and a work in progress. This section lists things that a
 
 ## Libraries / Tools / Examples
 
+### NSNotificationCenter
+
+* http://www.andrewcbancroft.com/2014/10/08/fundamentals-of-nsnotificationcenter-in-swift/
+* 
+
 ### Websockets
 
 * https://github.com/daltoniam/starscream
