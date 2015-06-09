@@ -80,6 +80,7 @@ Swift is definitely new and a work in progress. This section lists things that a
 * 
 
 ## Books and Upcoming Books
+* [Learn Swift](http://books.aidanf.net/learn-swift)
 * [The Swift Programming Language - iBook](https://itunes.apple.com/us/book/the-swift-programming-language/id881256329?mt=11)
 * [A Swift Kickstart by Daniel H Steinberg](https://itunes.apple.com/us/book/a-swift-kickstart/id891801923?mt=11)
 * [Your first Swift App](https://leanpub.com/yourfirstswiftapp)
