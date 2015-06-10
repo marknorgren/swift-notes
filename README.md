@@ -7,6 +7,7 @@ Swift
 
 ## Apple's Official Documentation
 * [Official Apple Site](https://developer.apple.com/swift/)
+* [Swift Resources](https://developer.apple.com/swift/resources/)
 * [About Swift](https://developer.apple.com/library/prerelease/ios/documentation/Swift/Conceptual/Swift_Programming_Language/)
 * [Language Guide](https://developer.apple.com/library/prerelease/ios/documentation/Swift/Conceptual/Swift_Programming_Language/TheBasics.html#//apple_ref/doc/uid/TP40014097-CH5-XID_399)
 * [Language Reference](https://developer.apple.com/library/prerelease/ios/documentation/Swift/Conceptual/Swift_Programming_Language/AboutTheLanguageReference.html#//apple_ref/doc/uid/TP40014097-CH29-XID_453)
@@ -58,8 +59,10 @@ Swift is definitely new and a work in progress. This section lists things that a
 
 ## Courses
 
+* [Swift Education](https://swifteducation.github.io/)
 * [Stanford's Developing iOS 8 Apps With Swift](https://itunes.apple.com/course/developing-ios-8-apps-swift/id961180099)
   * this is a great resource, taught by Paul Hegarty
+* [Plymouth University: iOS Development in Swift](https://itunes.com/PlymouthSwift)
 
 ## Collection of links, resources, and snippets for Swift
 * [Awesome Swift](https://github.com/matteocrippa/awesome-swift)
