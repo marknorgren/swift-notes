@@ -29,12 +29,23 @@ Swift is definitely new and a work in progress. This section lists things that a
 
 * http://roadfiresoftware.com/2014/08/a-safer-approach-to-json-parsing-in-swift/
 
+----------------
 
 ## Libraries / Tools / Examples
 
 ### NSNotificationCenter
 
 * http://www.andrewcbancroft.com/2014/10/08/fundamentals-of-nsnotificationcenter-in-swift/
+* 
+
+## Networking
+
+* https://github.com/Alamofire/Alamofire
+* 
+
+### Network Abstraction Layer
+
+* https://github.com/Moya/Moya
 * 
 
 ### Websockets
@@ -48,15 +59,16 @@ Swift is definitely new and a work in progress. This section lists things that a
 
 ### Functional Swift
 
-
-
 * [Reactive Cocoa](https://github.com/ReactiveCocoa/ReactiveCocoa)
 * [RxSwift](https://github.com/kzaher/RxSwift) - Microsoft Reactive Extensions (Rx) for Swift and iOS/OSX platform
 
 #### Example Apps
 
 * https://github.com/ColinEberhardt/ReactiveSwiftFlickrSearch
+* [Eidolon by Artsy](https://github.com/artsy/eidolon)
+  * [Blog post on Developing a Bidding Kiosk for iOS in Swift](https://artsy.github.io/blog/2014/11/13/eidolon-retrospective/)
 
+----------
 ## Courses
 
 * [Swift Education](https://swifteducation.github.io/)
