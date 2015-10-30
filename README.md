@@ -9,7 +9,7 @@ Swift
 * [Official Apple Site](https://developer.apple.com/swift/)
 * [Swift Resources](https://developer.apple.com/swift/resources/)
 * [About Swift](https://developer.apple.com/library/prerelease/ios/documentation/Swift/Conceptual/Swift_Programming_Language/)
-* [Language Guide](https://developer.apple.com/library/prerelease/ios/documentation/Swift/Conceptual/Swift_Programming_Language/TheBasics.html#//apple_ref/doc/uid/TP40014097-CH5-XID_399)
+* [Language Guide](https://developer.apple.com/library/prereleases/ios/documentation/Swift/Conceptual/Swift_Programming_Language/TheBasics.html#//apple_ref/doc/uid/TP40014097-CH5-XID_399)
 * [Language Reference](https://developer.apple.com/library/prerelease/ios/documentation/Swift/Conceptual/Swift_Programming_Language/AboutTheLanguageReference.html#//apple_ref/doc/uid/TP40014097-CH29-XID_453)
 * [The Swift Programming Language - iBook](https://itunes.apple.com/us/book/the-swift-programming-language/id881256329?mt=11)
 * [Apple's Swift Book - Revision History](https://developer.apple.com/library/prerelease/ios/documentation/Swift/Conceptual/Swift_Programming_Language/RevisionHistory.html)
@@ -132,9 +132,12 @@ This is a list of an awesome resource from [realm.io's](realm.io) [blog](http://
 * [Enums, Pattern Matching & Generics](http://realm.io/news/swift-enums-pattern-matching-generics/)
 * [Building tableviews in Swift](http://realm.io/news/building-tableviews-swift-ios8/)
 
-## Style Guides
+## Style Guides / Best Practices
 * Github's [Swift style guide](https://github.com/github/swift-style-guide)
-* https://github.com/raywenderlich/swift-style-guide
+* [SlideShare Swift Style Guide](https://github.com/SlideShareInc/swift-style-guide/blob/master/swift_style_guide.md)
+* [Best practices for software development with Swift](https://github.com/schwa/Swift-Community-Best-Practices/)
+* [SwiftLint - An experimental tool to enforce Swift style and conventions.](https://github.com/realm/SwiftLint)
+* [Ray Wenderlich](https://github.com/raywenderlich/swift-style-guide)
 
 ## Cheat Sheets
 * [Swift Cheat Sheet and Quick Reference - Ray Wenderlich](http://www.raywenderlich.com/73967/swift-cheat-sheet-and-quick-reference)
