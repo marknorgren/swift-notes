@@ -74,6 +74,11 @@ Swift is definitely new and a work in progress. This section lists things that a
 * [Swift Education](https://swifteducation.github.io/)
 * [Stanford's Developing iOS 8 Apps With Swift](https://itunes.apple.com/course/developing-ios-8-apps-swift/id961180099)
   * this is a great resource, taught by Paul Hegarty
+* Udacity's Swift Courses
+  * [Intro to iOS App Development with Swift](https://www.udacity.com/course/intro-to-ios-app-development-with-swift--ud585)
+  * [iOS Networking with Swift - Web Services, APIs, and JSON](https://www.udacity.com/course/ios-networking-with-swift--ud421)
+  * [Xcode Debugging - Print Statements, Breakpoints, and LLDB](https://www.udacity.com/course/xcode-debugging--ud774)
+  * [iOS Persistence and Core Data - Storing Your App’s Data](https://www.udacity.com/course/ios-persistence-and-core-data--ud325)
 * [Plymouth University: iOS Development in Swift](https://itunes.com/PlymouthSwift)
 
 ## Collection of links, resources, and snippets for Swift
