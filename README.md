@@ -53,14 +53,20 @@ Swift is definitely new and a work in progress. This section lists things that a
 * https://github.com/daltoniam/starscream
 * https://github.com/tidwall/SwiftWebSocket
 
-### Time / Dates
+## Time / Dates
 
 * https://github.com/malcommac/SwiftDate
 
-### Functional Swift
+## Functional Swift
 
 * [Reactive Cocoa](https://github.com/ReactiveCocoa/ReactiveCocoa)
 * [RxSwift](https://github.com/kzaher/RxSwift) - Microsoft Reactive Extensions (Rx) for Swift and iOS/OSX platform
+
+## Models
+
+### Models, JSON
+
+* [SwiftyJSONAccelerator](https://github.com/insanoid/SwiftyJSONAccelerator) - Code Generation from JSON
 
 #### Example Apps
 
