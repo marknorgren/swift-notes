@@ -64,7 +64,7 @@ Swift is definitely new and a work in progress. This section lists things that a
 
 ## Models
 
-### Models, JSON
+### JSON -> Swift Models
 
 * [SwiftyJSONAccelerator](https://github.com/insanoid/SwiftyJSONAccelerator) - Code Generation from JSON
 
