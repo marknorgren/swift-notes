@@ -6,6 +6,9 @@ Swift
 * [Online REPL - http://swiftstub.com/](http://swiftstub.com/)
 
 ## Apple's Official Documentation
+* [Source Code](https://github.com/apple/swift)
+* [Apple's Github Page](https://github.com/apple)
+* [Swift's Bug Tracker (JIRA)](https://bugs.swift.org/secure/Dashboard.jspa)
 * [Official Apple Site](https://developer.apple.com/swift/)
 * [Swift Resources](https://developer.apple.com/swift/resources/)
 * [About Swift](https://developer.apple.com/library/prerelease/ios/documentation/Swift/Conceptual/Swift_Programming_Language/)
