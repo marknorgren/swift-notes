@@ -147,6 +147,7 @@ This is a list of an awesome resource from [realm.io's](realm.io) [blog](http://
 * [Best practices for software development with Swift](https://github.com/schwa/Swift-Community-Best-Practices/)
 * [SwiftLint - An experimental tool to enforce Swift style and conventions.](https://github.com/realm/SwiftLint)
 * [Ray Wenderlich](https://github.com/raywenderlich/swift-style-guide)
+* [sportngin](https://github.com/sportngin/styleguide/blob/master/swift.md)
 
 ## Cheat Sheets
 * [Swift Cheat Sheet and Quick Reference - Ray Wenderlich](http://www.raywenderlich.com/73967/swift-cheat-sheet-and-quick-reference)
@@ -159,11 +160,12 @@ This is a list of an awesome resource from [realm.io's](realm.io) [blog](http://
 
 
 ## Use REPL from terminal
-  * OS X 10.10 Yosemite just type `swift` in the terminal to start the REPL
+  * OS X 10.10 Yosemite, 10.11 El Capitan just type `swift` in the terminal to start the REPL
   
   ```
-    $ swift
-    Welcome to Swift!  Type :help for assistance.
+   $ swift
+   Welcome to Apple Swift version 2.1.1 (swiftlang-700.1.101.15 clang-700.1.81). Type :help for assistance.
+      1>  
   ```
   * Setup alias for `swift`
   * OS X 10.9 Mavericks
@@ -176,13 +178,7 @@ Once you add that alias you should be able to run `swift` from terminal
 
 ```bash
 $ swift
-Welcome to Swift! Type :help for assistance.
-    1> :help
+Welcome to Apple Swift version 2.1.1 (swiftlang-700.1.101.15 clang-700.1.81). Type :help for assistance.
+  1>  
 
-The Swift REPL (Read-Eval-Print-Loop) acts like an interpreter.  Valid statements, expressions, and declarations are
-immediately compiled and executed.
-
-The complete set of LLDB debugging commands are also available as described below. 
-Commands must be prefixed with a colon at the REPL prompt (:quit for example.)  Typing just a colon followed by return will
-switch to the LLDB prompt.
 ```
