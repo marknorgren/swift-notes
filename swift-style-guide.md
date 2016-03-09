@@ -19,7 +19,7 @@ It becomes easier to reason about code. Had you used `var` while still making th
 
 Accordingly, whenever you see a `var` identifier being used, assume that it will change and ask yourself why.
 
-### Return and break early
+#### Return and break early
 
 When you have to meet certain criteria to continue execution, try to exit early. So, instead of this:
 
