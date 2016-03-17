@@ -130,6 +130,10 @@ Swift is definitely new and a work in progress. This section lists things that a
 
 This is a list of an awesome resource from [realm.io's](realm.io) [blog](http://realm.io/news)
 
+* [Conquering Your Fear of Adopting Swift](https://realm.io/news/slug-brennan-stehling-conquering-fear-adopting-swift/)
+* [Introduction to Protocol-Oriented MVVM](https://realm.io/news/doios-natasha-murashev-protocol-oriented-mvvm/)
+* [Challenges Building a Swift Framework](https://realm.io/news/marius-rackwitz-challenges-building-swift-framework/)
+* [Embrace Immutability](https://realm.io/news/slug-keith-smiley-embrace-immutability/)
 * [Top 5 meetup videos for 2014](http://realm.io/news/top-5-swift-videos-of-2014/)
 * [Swift for Javascript Developers](http://realm.io/news/swift-for-javascript-developers/)
 * [Swift: Enums, Pattern Matching & Generics](http://realm.io/news/swift-enums-pattern-matching-generics/)
