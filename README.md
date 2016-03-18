@@ -146,6 +146,7 @@ This is a list of an awesome resource from [realm.io's](realm.io) [blog](http://
 * [Building tableviews in Swift](http://realm.io/news/building-tableviews-swift-ios8/)
 
 ## Style Guides / Best Practices
+* [Vokal Engineering's Swift Style Guide](https://engineering.vokal.io/iOS/Swift.md.html)
 * [Github's Swift style guide](https://github.com/github/swift-style-guide)
 * [SlideShare Swift Style Guide](https://github.com/SlideShareInc/swift-style-guide/blob/master/swift_style_guide.md)
 * [Best practices for software development with Swift](https://github.com/schwa/Swift-Community-Best-Practices/)
