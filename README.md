@@ -129,7 +129,7 @@ Swift is definitely new and a work in progress. This section lists things that a
 ### realm.io meetup videos
 
 This is a list of an awesome resource from [realm.io's](realm.io) [blog](http://realm.io/news)
-
+* [Jan 14, 2016 - Unidirectional Data Flow in Swift: An Alternative to Massive View Controllers](https://realm.io/news/benji-encz-unidirectional-data-flow-swift/)
 * [Conquering Your Fear of Adopting Swift](https://realm.io/news/slug-brennan-stehling-conquering-fear-adopting-swift/)
 * [Introduction to Protocol-Oriented MVVM](https://realm.io/news/doios-natasha-murashev-protocol-oriented-mvvm/)
 * [Challenges Building a Swift Framework](https://realm.io/news/marius-rackwitz-challenges-building-swift-framework/)
