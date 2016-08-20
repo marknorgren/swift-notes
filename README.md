@@ -77,6 +77,14 @@ Swift is definitely new and a work in progress. This section lists things that a
 * [Eidolon by Artsy](https://github.com/artsy/eidolon)
   * [Blog post on Developing a Bidding Kiosk for iOS in Swift](https://artsy.github.io/blog/2014/11/13/eidolon-retrospective/)
 
+
+## Server Side Swift
+
+* Kitura - https://github.com/IBM-Swift/Kitura
+* Vapor - http://qutheory.io/
+* Zewo - http://www.zewo.io/
+* https://github.com/noppoMan/Slimane
+
 ----------
 ## Courses
 
