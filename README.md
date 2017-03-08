@@ -6,7 +6,7 @@ Swift
 * [Online REPL -https://swift.sandbox.bluemix.net/#/repl)
 
 ## Apple's Official Documentation
-* [Source Code](https://github.com/apple/swift)
+
 * [Apple's Github Page](https://github.com/apple)
 * [Swift's Bug Tracker (JIRA)](https://bugs.swift.org/secure/Dashboard.jspa)
 * [Official Apple Site](https://developer.apple.com/swift/)
@@ -18,6 +18,11 @@ Swift
 * [Apple's Swift Book - Revision History](https://developer.apple.com/library/prerelease/ios/documentation/Swift/Conceptual/Swift_Programming_Language/RevisionHistory.html)
     * Very useful while Swift is in beta!
     * 
+    
+## Open Source Swift
+
+* [Swift Evolution Proposals Index](https://apple.github.io/swift-evolution/)
+* [Source Code](https://github.com/apple/swift)
 
 ## Is Swift Ready?
 
