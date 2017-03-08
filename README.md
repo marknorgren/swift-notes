@@ -3,7 +3,7 @@ Swift
 
 ## Tools
 
-* [Online REPL - http://swiftstub.com/](http://swiftstub.com/)
+* [Online REPL -https://swift.sandbox.bluemix.net/#/repl)
 
 ## Apple's Official Documentation
 * [Source Code](https://github.com/apple/swift)
