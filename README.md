@@ -95,7 +95,26 @@ Swift is definitely new and a work in progress. This section lists things that a
 - [Official Swift-Arm Community Releases](https://swift-arm.com/2019/01/07/official-swift-arm-community-releases/)
 - [SwiftyGPIO](https://github.com/uraimo/SwiftyGPIO)
 
-Install Vapor Example
+### Install Swift on Pi (March 2019)
+
+`$ curl -s https://packagecloud.io/install/repositories/swift-arm/release/script.deb.sh | sudo bash
+sudo apt install swift4`
+
+`$ sudo apt-get install swift4`
+
+You should see swift version after running:
+
+`$ swift --version`
+
+Example:
+
+```
+$ swift --version
+Swift version 4.2.3 (swift-4.2.3-RELEASE)
+Target: armv7-unknown-linux-gnueabihf
+```
+
+### Install Vapor Example
 
 ```
 $ sudo apt install git
@@ -113,8 +132,7 @@ $ swift run Run --hostname 0.0.0.0 --port 8080
 
 
 ```
-curl -s https://packagecloud.io/install/repositories/swift-arm/release/script.deb.sh | sudo bash
-sudo apt install swift4
+
 ```
 ----------
 ## Courses
