@@ -93,8 +93,22 @@ Swift is definitely new and a work in progress. This section lists things that a
 ## Swift on Raspberry Pi
 
 - [Official Swift-Arm Community Releases](https://swift-arm.com/2019/01/07/official-swift-arm-community-releases/)
+- [SwiftyGPIO](https://github.com/uraimo/SwiftyGPIO)
 
-Install
+Install Vapor Example
+
+```
+$ sudo apt install git
+
+$ sudo apt-get install openssl
+$ sudo apt-get install libssl1.0
+
+$ git clone https://github.com/twostraws/vapor-clean
+
+$ swift build
+
+$ swift run Run --hostname 0.0.0.0 --port 8080
+```
 
 
 
