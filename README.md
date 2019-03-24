@@ -90,6 +90,18 @@ Swift is definitely new and a work in progress. This section lists things that a
 * Zewo - http://www.zewo.io/
 * https://github.com/noppoMan/Slimane
 
+## Swift on Raspberry Pi
+
+- [Official Swift-Arm Community Releases](https://swift-arm.com/2019/01/07/official-swift-arm-community-releases/)
+
+Install
+
+
+
+```
+curl -s https://packagecloud.io/install/repositories/swift-arm/release/script.deb.sh | sudo bash
+sudo apt install swift4
+```
 ----------
 ## Courses
 
