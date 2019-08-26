@@ -3,7 +3,7 @@ Swift
 
 ## Tools
 
-* [Online REPL -https://swift.sandbox.bluemix.net/#/repl)
+* [Online Swift Playground - http://online.swiftplayground.run/](http://online.swiftplayground.run/)
 
 ## Apple's Official Documentation
 
@@ -12,30 +12,26 @@ Swift
 * [Official Apple Site](https://developer.apple.com/swift/)
 * [Swift Resources](https://developer.apple.com/swift/resources/)
 * [About Swift](https://developer.apple.com/library/prerelease/ios/documentation/Swift/Conceptual/Swift_Programming_Language/)
-* [Language Guide](https://developer.apple.com/library/prereleases/ios/documentation/Swift/Conceptual/Swift_Programming_Language/TheBasics.html#//apple_ref/doc/uid/TP40014097-CH5-XID_399)
-* [Language Reference](https://developer.apple.com/library/prerelease/ios/documentation/Swift/Conceptual/Swift_Programming_Language/AboutTheLanguageReference.html#//apple_ref/doc/uid/TP40014097-CH29-XID_453)
+* [Language Guide](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html)
+* [Language Reference](https://docs.swift.org/swift-book/ReferenceManual/AboutTheLanguageReference.html)
 * [The Swift Programming Language - iBook](https://itunes.apple.com/us/book/the-swift-programming-language/id881256329?mt=11)
-* [Apple's Swift Book - Revision History](https://developer.apple.com/library/prerelease/ios/documentation/Swift/Conceptual/Swift_Programming_Language/RevisionHistory.html)
-    * Very useful while Swift is in beta!
-    * 
+* [Apple's Swift Book - Revision History](https://docs.swift.org/swift-book/)
+
     
 ## Open Source Swift
 
 * [Swift Evolution Proposals Index](https://apple.github.io/swift-evolution/)
 * [Source Code](https://github.com/apple/swift)
 
-## Is Swift Ready?
-
-Swift is definitely new and a work in progress. This section lists things that are missing or could use work yet.
-
 
 ### Regular Expressions
-* http://benscheirman.com/2014/06/regex-in-swift/
-* 
+
+* https://nshipster.com/swift-regular-expressions/
 
 ### JSON Parsing
 
-* http://roadfiresoftware.com/2014/08/a-safer-approach-to-json-parsing-in-swift/
+* https://developer.apple.com/swift/blog/?id=37
+* https://www.hackingwithswift.com/example-code/system/how-to-parse-json-using-jsonserialization
 
 ----------------
 
@@ -46,18 +42,15 @@ Swift is definitely new and a work in progress. This section lists things that a
 * http://www.andrewcbancroft.com/2014/10/08/fundamentals-of-nsnotificationcenter-in-swift/
 * 
 
-## Networking
+## iOS Libs List
 
-* https://github.com/Alamofire/Alamofire
-* 
+- https://github.com/mrkd/ios-libs
 
-### Network Abstraction Layer
-
-* https://github.com/Moya/Moya
-* 
 
 ### Websockets
 
+* [WWDC19 Advances in Networking](https://developer.apple.com/videos/play/wwdc2019/712/)
+   - URLSession supports websockets now
 * https://github.com/daltoniam/starscream
 * https://github.com/tidwall/SwiftWebSocket
 
@@ -65,8 +58,9 @@ Swift is definitely new and a work in progress. This section lists things that a
 
 * https://github.com/malcommac/SwiftDate
 
-## Functional Swift
+## Reactive Swift
 
+* [Combine - WWDC19](https://developer.apple.com/documentation/combine)
 * [Reactive Cocoa](https://github.com/ReactiveCocoa/ReactiveCocoa)
 * [RxSwift](https://github.com/kzaher/RxSwift) - Microsoft Reactive Extensions (Rx) for Swift and iOS/OSX platform
 
@@ -85,10 +79,8 @@ Swift is definitely new and a work in progress. This section lists things that a
 
 ## Server Side Swift
 
+* Vapor - https://vapor.codes
 * Kitura - https://github.com/IBM-Swift/Kitura
-* Vapor - http://qutheory.io/
-* Zewo - http://www.zewo.io/
-* https://github.com/noppoMan/Slimane
 
 ## Swift on Raspberry Pi
 
@@ -137,8 +129,7 @@ $ swift run Run --hostname 0.0.0.0 --port 8080
 ----------
 ## Courses
 
-* [Swift Education](https://swifteducation.github.io/)
-* [Stanford's Developing iOS 8 Apps With Swift](https://itunes.apple.com/course/developing-ios-8-apps-swift/id961180099)
+* [Developing iOS 11 Apps with Swift](https://itunes.apple.com/us/course/developing-ios-11-apps-with-swift/id1309275316)
   * this is a great resource, taught by Paul Hegarty
 * Udacity's Swift Courses
   * [Intro to iOS App Development with Swift](https://www.udacity.com/course/intro-to-ios-app-development-with-swift--ud585)
@@ -215,32 +206,9 @@ This is a list of an awesome resource from [realm.io's](realm.io) [blog](http://
 * [Swift Cheat Sheet and Quick Reference - Ray Wenderlich](http://www.raywenderlich.com/73967/swift-cheat-sheet-and-quick-reference)
 * [Swift Cheat Sheet - github.com/grant/swift-cheat-sheet](https://github.com/grant/swift-cheat-sheet)
 
-## Tutorials
-* [Swift Tutorial: A Quick Start](http://www.raywenderlich.com/74438/swift-tutorial-a-quick-start)
 
 
 
 
-## Use REPL from terminal
-  * OS X 10.10 Yosemite, 10.11 El Capitan just type `swift` in the terminal to start the REPL
-  
-  ```
-   $ swift
-   Welcome to Apple Swift version 2.1.1 (swiftlang-700.1.101.15 clang-700.1.81). Type :help for assistance.
-      1>  
-  ```
-  * Setup alias for `swift`
-  * OS X 10.9 Mavericks
 
-  ```
-    alias swift="xcrun swift -sdk     /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk"
-  ```
 
-Once you add that alias you should be able to run `swift` from terminal
-
-```bash
-$ swift
-Welcome to Apple Swift version 2.1.1 (swiftlang-700.1.101.15 clang-700.1.81). Type :help for assistance.
-  1>  
-
-```
